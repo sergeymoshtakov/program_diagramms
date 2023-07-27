@@ -1,3 +1,3 @@
 # program_diagramms
 
-![фото программы](photo.png)
+![фото программы](foto.png)
